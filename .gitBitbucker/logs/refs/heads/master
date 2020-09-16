@@ -1,0 +1,56 @@
+0000000000000000000000000000000000000000 baa497dd08c1eb9e9344f1f63904aada117d78db Agon Ahmetaj <agonahmetaj@gmail.com> 1572954897 +0100	clone: from https://github.com/AgonAh/sbis.git
+baa497dd08c1eb9e9344f1f63904aada117d78db e22cfeec5b0e8b4518305e7742bf719ffdff7720 Agon Ahmetaj <agonahmetaj@gmail.com> 1572954991 +0100	commit: 05/11/2019
+e22cfeec5b0e8b4518305e7742bf719ffdff7720 e58459724dd7217c473fc63b064c2bf64dff8473 Agon Ahmetaj <agonahmetaj@gmail.com> 1573139279 +0100	commit: first commit
+e58459724dd7217c473fc63b064c2bf64dff8473 deb2193673eee75bd275f3c11dbba0cff536327a Agon Ahmetaj <agonahmetaj@gmail.com> 1573139354 +0100	commit: asd
+deb2193673eee75bd275f3c11dbba0cff536327a cfc44dfadd1aa1f6bfb618d97ad8e357ec5d084e Agon Ahmetaj <agonahmetaj@gmail.com> 1573139573 +0100	commit: ran composer update to generate composer.lock
+cfc44dfadd1aa1f6bfb618d97ad8e357ec5d084e 617ab663ad821e82467a0c180fb3a51629a8aaa8 Agon Ahmetaj <agonahmetaj@gmail.com> 1573222330 +0100	commit: removed session autoload for testing
+617ab663ad821e82467a0c180fb3a51629a8aaa8 53d26be4fe773e7b2a9bef92991c55ad94cd372e Agon Ahmetaj <agonahmetaj@gmail.com> 1573222820 +0100	commit: changed database config
+53d26be4fe773e7b2a9bef92991c55ad94cd372e 0fbe9d160e98edb7dff15c9e85b5de8355f3bc9f Agon Ahmetaj <agonahmetaj@gmail.com> 1573222975 +0100	commit: asd
+0fbe9d160e98edb7dff15c9e85b5de8355f3bc9f b3d0f0446cd4ef147215583060e0aab06fedaa03 Agon Ahmetaj <agonahmetaj@gmail.com> 1573223259 +0100	commit: asdasdsa
+b3d0f0446cd4ef147215583060e0aab06fedaa03 18336385c0201a4792079e89b6779f5a65f1b3e6 Agon Ahmetaj <agonahmetaj@gmail.com> 1573223336 +0100	commit: asdsad
+18336385c0201a4792079e89b6779f5a65f1b3e6 08028610e5b394ab378a75d9f9bb3cd4b90c06ee Agon Ahmetaj <agonahmetaj@gmail.com> 1573223418 +0100	commit: asdasd
+08028610e5b394ab378a75d9f9bb3cd4b90c06ee 46becc1bdf19d2804458b69f185d93ff66ef0ec6 Agon Ahmetaj <agonahmetaj@gmail.com> 1573223601 +0100	commit: dsa
+46becc1bdf19d2804458b69f185d93ff66ef0ec6 2e57d878727d50fb7bf472ecfd40d9eb2f4f0da2 Agon Ahmetaj <agonahmetaj@gmail.com> 1573223723 +0100	commit: asdasd
+2e57d878727d50fb7bf472ecfd40d9eb2f4f0da2 c9a7c23dbe0ad7bf94a0a909769e0f2c000de1dc Agon Ahmetaj <agonahmetaj@gmail.com> 1573224433 +0100	commit: asdasd
+c9a7c23dbe0ad7bf94a0a909769e0f2c000de1dc b092378267d5001909a64d900a64dad0ed3f968d Agon Ahmetaj <agonahmetaj@gmail.com> 1573483373 +0100	commit: asd
+b092378267d5001909a64d900a64dad0ed3f968d ec2bca928305e09aa460cbefa8cfa486abca2ddd Agon Ahmetaj <agonahmetaj@gmail.com> 1573483476 +0100	commit: asd
+ec2bca928305e09aa460cbefa8cfa486abca2ddd 9b66a622676160d090679e2f0c176249322f4d2a Agon Ahmetaj <agonahmetaj@gmail.com> 1573483538 +0100	commit: asd
+9b66a622676160d090679e2f0c176249322f4d2a f1020207d1ae57062f13b8cdaa3cf6bddf909caa Agon Ahmetaj <agonahmetaj@gmail.com> 1573483779 +0100	commit: asd
+f1020207d1ae57062f13b8cdaa3cf6bddf909caa 742d5d4369db96763786b28f2bd7ba84b17471af Agon Ahmetaj <agonahmetaj@gmail.com> 1573484053 +0100	commit: asd
+742d5d4369db96763786b28f2bd7ba84b17471af d6d637ed3d41da65f3474d1c11a24bc3f3920084 Agon Ahmetaj <agonahmetaj@gmail.com> 1573485527 +0100	commit: asdasd
+d6d637ed3d41da65f3474d1c11a24bc3f3920084 8189453b8fb172bb7631677bf9d740f8abbe48a5 Agon Ahmetaj <agonahmetaj@gmail.com> 1573485680 +0100	commit: asd
+8189453b8fb172bb7631677bf9d740f8abbe48a5 3e271d565b7b54ba9e8140a0efa5468d6cfd7e0d Agon Ahmetaj <agonahmetaj@gmail.com> 1573485721 +0100	commit: asd
+3e271d565b7b54ba9e8140a0efa5468d6cfd7e0d 7720f57ced68f39e165b3513fa70af21d78d4d9c Agon Ahmetaj <agonahmetaj@gmail.com> 1573486196 +0100	commit: random
+7720f57ced68f39e165b3513fa70af21d78d4d9c 1abc3af76d42ee2c8ee034fb4597b30af52dea10 Agon Ahmetaj <agonahmetaj@gmail.com> 1573486336 +0100	commit: asd
+1abc3af76d42ee2c8ee034fb4597b30af52dea10 d18680d67777bc743a66a686ad81ae9a3f56984d Agon Ahmetaj <agonahmetaj@gmail.com> 1573486380 +0100	commit: asd
+d18680d67777bc743a66a686ad81ae9a3f56984d 410068c67f7fe2b67ea578e41eb27ced0c8ccbb5 Agon Ahmetaj <agonahmetaj@gmail.com> 1573486415 +0100	commit: asd
+410068c67f7fe2b67ea578e41eb27ced0c8ccbb5 e6252782b082995f1b20c995aa0bd9fa74c09e52 Agon Ahmetaj <agonahmetaj@gmail.com> 1573486638 +0100	commit: asd
+e6252782b082995f1b20c995aa0bd9fa74c09e52 cd310701aecf8f85f5d7bb45f35b5100d73a924c Agon Ahmetaj <agonahmetaj@gmail.com> 1573486866 +0100	commit: asd
+cd310701aecf8f85f5d7bb45f35b5100d73a924c d739c00ff85435afe1f65d408be5c8f6d1e0b645 Agon Ahmetaj <agonahmetaj@gmail.com> 1573487090 +0100	commit: asd
+d739c00ff85435afe1f65d408be5c8f6d1e0b645 c626ceabcb27dab86e561fbf6093a2aabff07a50 Agon Ahmetaj <agonahmetaj@gmail.com> 1573487248 +0100	commit: asd
+c626ceabcb27dab86e561fbf6093a2aabff07a50 a85fd5c297fbdacc8854ad8b161c816c799318e3 Agon Ahmetaj <agonahmetaj@gmail.com> 1573487410 +0100	commit: asd
+a85fd5c297fbdacc8854ad8b161c816c799318e3 ba1777b023e2dbd042945dc7772247d75984e2ce Agon Ahmetaj <agonahmetaj@gmail.com> 1573487682 +0100	commit: asd
+ba1777b023e2dbd042945dc7772247d75984e2ce 64c1364cd59e8f63d45af0ecaaba57a70d5c1ff0 Agon Ahmetaj <agonahmetaj@gmail.com> 1573487818 +0100	commit: asd
+64c1364cd59e8f63d45af0ecaaba57a70d5c1ff0 a8060989ccd13d08cfa5f6e19c99393a31a218b7 Agon Ahmetaj <agonahmetaj@gmail.com> 1573547804 +0100	commit: asd
+a8060989ccd13d08cfa5f6e19c99393a31a218b7 dbe00201045fdcd5fe4775ac36e23d5926459c3b Agon Ahmetaj <agonahmetaj@gmail.com> 1573547838 +0100	commit: asd
+dbe00201045fdcd5fe4775ac36e23d5926459c3b 2e95b8b5737d0579745dd9625400905e94325d1f Agon Ahmetaj <agonahmetaj@gmail.com> 1573643725 +0100	commit: asd
+2e95b8b5737d0579745dd9625400905e94325d1f 3cd4cf6a26e99762418036ac149e879c7ce0ee58 Agon Ahmetaj <agonahmetaj@gmail.com> 1573644419 +0100	commit: asd
+3cd4cf6a26e99762418036ac149e879c7ce0ee58 cc6bed15ab31ab71d8e16c571145cad19b7278a9 Agon Ahmetaj <agonahmetaj@gmail.com> 1573644594 +0100	commit: asd
+cc6bed15ab31ab71d8e16c571145cad19b7278a9 6c9b48c03fbc4ca7f1c77c509ef816ad1bfa2957 Agon Ahmetaj <agonahmetaj@gmail.com> 1573644829 +0100	commit: asd
+6c9b48c03fbc4ca7f1c77c509ef816ad1bfa2957 5f4390c5ab55e4b68805f68c874ddef6e1548c9a Agon Ahmetaj <agonahmetaj@gmail.com> 1573645032 +0100	commit: asd
+5f4390c5ab55e4b68805f68c874ddef6e1548c9a f3a1ea83d2377c1eac7eee29e3e553be2e341b6e Agon Ahmetaj <agonahmetaj@gmail.com> 1573645225 +0100	commit: asd
+f3a1ea83d2377c1eac7eee29e3e553be2e341b6e 9fc101db9ca5e0cfe70ba67bc21fac44cb62eade Agon Ahmetaj <agonahmetaj@gmail.com> 1573648419 +0100	commit: asd
+9fc101db9ca5e0cfe70ba67bc21fac44cb62eade 3db15bb5d940b3b0b3d9a37ba5e364aa66d382fa Agon Ahmetaj <agonahmetaj@gmail.com> 1573648805 +0100	commit: asd
+3db15bb5d940b3b0b3d9a37ba5e364aa66d382fa 888b2106c6cf789aa45fd42c28070261288d6105 Agon Ahmetaj <agonahmetaj@gmail.com> 1573649625 +0100	commit: asd
+888b2106c6cf789aa45fd42c28070261288d6105 a40e5d00aa04bb5a0ba4d5c96b02d46797b5b4a1 Agon Ahmetaj <agonahmetaj@gmail.com> 1573650109 +0100	commit: asd
+a40e5d00aa04bb5a0ba4d5c96b02d46797b5b4a1 f021262fb93d1c502c6e86b3587f0dccad265814 Agon Ahmetaj <agonahmetaj@gmail.com> 1573652401 +0100	commit: asd
+f021262fb93d1c502c6e86b3587f0dccad265814 0e87ad104361e529dec43551204a70113163b34b Agon Ahmetaj <agonahmetaj@gmail.com> 1573652801 +0100	commit: asd
+0e87ad104361e529dec43551204a70113163b34b a6e5b0fde880860c96859ab472df0d5d91d3533e Agon Ahmetaj <agonahmetaj@gmail.com> 1573652866 +0100	commit: asd
+a6e5b0fde880860c96859ab472df0d5d91d3533e 7cccf089c6855bd769215e6c630de7861f6a25e8 Agon Ahmetaj <agonahmetaj@gmail.com> 1573652973 +0100	commit: asd
+7cccf089c6855bd769215e6c630de7861f6a25e8 a74680c36b98949a2910d300cd922c4355f0edca Agon Ahmetaj <agonahmetaj@gmail.com> 1573653395 +0100	commit: asd
+a74680c36b98949a2910d300cd922c4355f0edca 5d78325c9eb21be9885ea0f0a9987cf81c2bd77a Agon Ahmetaj <agonahmetaj@gmail.com> 1573653480 +0100	commit: asd
+5d78325c9eb21be9885ea0f0a9987cf81c2bd77a 4234c3edb73068749360e65d718b13d8d83c1f51 Agon Ahmetaj <agonahmetaj@gmail.com> 1573653639 +0100	commit: asd
+4234c3edb73068749360e65d718b13d8d83c1f51 0cf48282efdb63ac1695c3903f7628a86e40b9a5 Agon Ahmetaj <agonahmetaj@gmail.com> 1573653696 +0100	commit: asd
+0cf48282efdb63ac1695c3903f7628a86e40b9a5 cfe214bf1ec64f1ed20101be65d717b2e137911a Agon Ahmetaj <agonahmetaj@gmail.com> 1573654365 +0100	commit: asd
+cfe214bf1ec64f1ed20101be65d717b2e137911a a7461ec51cdc39926128b5742733eaedddcc5449 Agon Ahmetaj <agonahmetaj@gmail.com> 1573654430 +0100	commit: asd
+a7461ec51cdc39926128b5742733eaedddcc5449 9dab3f9250c30925d9f667c8cb8a290e294911b2 Agon Ahmetaj <agonahmetaj@gmail.com> 1600278546 +0200	commit: updates

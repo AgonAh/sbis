@@ -1,0 +1,55 @@
+000webhost credentials: username - root | password - Xz2\6Y7v(5$M}%*U
+Bigger todos:
+Add an active toggle to student subject that automatically goes inactive at the end of a semester, can be manually deactivated by a student if they unenroll, or can be reactivted by enrolling again
+
+Add a message system where a professor can contact all their students of 1 subject to let them know that a class is canceled or something
+	-message table taked professor_subject_id and message as columns, any students who are enrolled with that p_s_id get the message
+
+
+
+
+
+
+
+Optimization todos:
+		Done - Add form validation (student,staff,misc,subject)
+		Done - add regex for generation name (4 numbers / 4 numbers)
+		Done - ake sure generation & branch names are unique 
+		Done - add lists of existing generations and branches 
+		Done - add created_at column in students and staff
+		Done - return student/staff information in a table after adding student/staff //also subject
+		Done - add a search bar to see if a certain student/staff exists
+		Done - specify professor and subject after the binding
+		Done - Add search for all subjects a professor has and vice versa 
+		Done - Add table with all  subjects in addSubject
+Add change password
+Add pasword reset
+
+
+
+	
+
+
+process:
+	run /manager/initialise
+	add branches and generations
+	add subjects
+	add professors
+	bind professors to subjects
+	add students
+
+
+Username: admin
+Password:  850ca7b69793dc5460c3c1b9b65e2693
+
+
+TRUNCATE `branches`;
+TRUNCATE `generations`;
+TRUNCATE `manager`;
+TRUNCATE `professor`;
+TRUNCATE `professor_subject`;
+TRUNCATE `roles`;
+TRUNCATE `staff`;
+TRUNCATE `student`;
+TRUNCATE `student_subject`;
+TRUNCATE `subject`;
